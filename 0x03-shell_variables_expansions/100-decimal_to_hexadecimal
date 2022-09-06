@@ -1,0 +1,2 @@
+#!/bin/bash
+converts a number in env var DECIMAL from base 10 to base 16 and prints it followed by a new line

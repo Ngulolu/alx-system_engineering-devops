@@ -1,2 +1,2 @@
-We are just trying
-Always and forever
+Shell Basics
+The Ulpha & Unmega

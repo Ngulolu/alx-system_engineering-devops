@@ -1,2 +1,2 @@
 #!/bin/bash
-cd
+cd #changes working directory to user's home directory

@@ -1,4 +1,7 @@
 Shell Basics
 The Ulpha & Unmega
 
+#! - Shebang _ Character sequencing ; if used with a text file, it allows the program loader to [arse the rest of teh initial line as an interpreter directive
+
 0 _ PWD tells the directory you're on
+1-listit ;lists all contents of the current directory

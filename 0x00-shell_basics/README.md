@@ -10,4 +10,7 @@ The Ulpha & Unmega
 4-listmorefiles : list all files including hidden in a long format
 5-listfiles digits only: lists all files including hidden, displaying user groups numerically
 6-creates the first directory inside a directory
-7- 
+7-moves the file betty by specifying its path to desired directory
+8-the first deletion of a file
+9-the first deletion of a directory
+10-

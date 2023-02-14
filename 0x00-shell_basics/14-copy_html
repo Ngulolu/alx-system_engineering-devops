@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -nu *.html ..
+cp -nu *.html .. #copies all HTML files from current working dorectory to the parent of the working directory

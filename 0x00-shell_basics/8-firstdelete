@@ -1,3 +1,2 @@
 #!/bin/bash
 rm /tmp/my_first_directory/betty #deletes the file betty following path where it is stored
-

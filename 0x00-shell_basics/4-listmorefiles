@@ -1,3 +1,2 @@
 #!/bin/bash
 ls -l -a # lists files in a long fromat including hidden
-

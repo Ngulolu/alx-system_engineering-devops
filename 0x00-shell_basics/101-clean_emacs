@@ -1,2 +1,2 @@
 #!/bin/bash
-rm *~
+rm *~ #deletes all files ending with ~ using wildcard *

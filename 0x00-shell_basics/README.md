@@ -6,3 +6,5 @@ The Ulpha & Unmega
 0 _ PWD tells the directory you're on
 1-listit ;lists all contents of the current directory
 2-bring_me home; Takes one to their home directory from current working directory(wd)
+3-Listfiles : the code that lists directory contents in a long format
+4-listmorefiles :

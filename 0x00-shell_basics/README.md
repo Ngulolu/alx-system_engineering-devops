@@ -7,4 +7,7 @@ The Ulpha & Unmega
 1-listit ;lists all contents of the current directory
 2-bring_me home; Takes one to their home directory from current working directory(wd)
 3-Listfiles : the code that lists directory contents in a long format
-4-listmorefiles :
+4-listmorefiles : list all files including hidden in a long format
+5-listfiles digits only: lists all files including hidden, displaying user groups numerically
+6-creates the first directory inside a directory
+7- 

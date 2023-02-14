@@ -1,2 +1,5 @@
 #!/bin/bash
 mkdir -p /tmp/my_first_directory
+
+# mkdir -p : command that takes argument to create the directory you desire
+#/tmp/my_first_directory : path to create the first directory inside the tmp directory

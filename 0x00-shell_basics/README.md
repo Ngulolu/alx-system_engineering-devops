@@ -8,9 +8,11 @@ The Ulpha & Unmega
 2-bring_me home; Takes one to their home directory from current working directory(wd)
 3-Listfiles : the code that lists directory contents in a long format
 4-listmorefiles : list all files including hidden in a long format
-5-listfiles digits only: lists all files including hidden, displaying user groups numerically
-6-creates the first directory inside a directory
-7-moves the file betty by specifying its path to desired directory
-8-the first deletion of a file
-9-the first deletion of a directory
-10-takes us back to the previous directory
+5-listfiles digits only: lists all files including hidden, displaying user groups numerically\
+6-creates the first directory inside a directory\
+7-moves the file betty by specifying its path to desired directory\
+8-the first deletion of a file\
+9-the first deletion of a directory\
+10-takes us back to the previous directory\
+11-Lists all files in the current directory including ones in the /boot directory\
+12. 

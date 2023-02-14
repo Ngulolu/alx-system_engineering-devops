@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -pamv
+ls -pamv #-p for forward slash btn directories, a for all,m for listing with commas and v for natural sort of numbers
